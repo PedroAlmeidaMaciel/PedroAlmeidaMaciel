@@ -17,7 +17,7 @@ Meu grande foco de carreira é atuar nas áreas de **DevOps, Platform Engineerin
 
 ---
 
-### 🔬 Iniciação Científica em Destaque (Em Andamento)
+### 🔬 Iniciação Científica (Em Andamento)
 
 Atualmente, trabalho no desenvolvimento de um **Sistema Integrado para Gestão de Áreas de Risco em Salvador**. O projeto visa o monitoramento de encostas sob impactos climáticos com o objetivo central de prevenir deslizamentos. O escopo técnico e a arquitetura da solução envolvem:
 
