@@ -45,14 +45,8 @@ Atualmente, trabalho no desenvolvimento de um **Sistema Integrado para Gestão d
 
 ### 📈 Status no GitHub
 
-<p align="center">
-  <a href="https://github.com/PedroAlmeidaMaciel">
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroAlmeidaMaciel&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180">
-  </a>
-  <a href="https://github.com/PedroAlmeidaMaciel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeidaMaciel&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" height="180">
-  </a>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroAlmeidaMaciel&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeidaMaciel&layout=compact&langs_count=7&theme=radical)
 
 ---
 
