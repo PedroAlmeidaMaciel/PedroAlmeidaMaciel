@@ -43,20 +43,6 @@ Atualmente, trabalho no desenvolvimento de um **Sistema Integrado para Gestão d
 
 ---
 
-### 📈 Status no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroAlmeidaMaciel&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeidaMaciel&layout=compact&langs_count=7&theme=radical)
-
----
-
-### 📫 Vamos nos conectar!
-
-Se quiser trocar ideias sobre cultura DevOps, soluções em nuvem, IoT, ou qualquer outro desafio de arquitetura:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-almeida-maciel-9687521a1)
----
-
 ### 📫 Vamos nos conectar!
 
 Se quiser trocar ideias sobre cultura DevOps, soluções em nuvem, IoT, ou qualquer outro desafio de arquitetura:
