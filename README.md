@@ -21,7 +21,7 @@ Meu grande foco de carreira é atuar nas áreas de **DevOps, Platform Engineerin
 
 Atualmente, trabalho no desenvolvimento de um **Sistema Integrado para Gestão de Áreas de Risco em Salvador**. O projeto visa o monitoramento de encostas sob impactos climáticos com o objetivo central de prevenir deslizamentos. O escopo técnico e a arquitetura da solução envolvem:
 
-*   **Prototipagem IoT:** Utilização de microcontroladores ESP32 LoRa integrados a sensores de umidade capacitivos, sensores de vibração (SW-420) e módulos acelerômetros/giroscópios (MPU-6050).
+*   **Prototipagem e Redes IoT:** Utilização de microcontroladores ESP32 comunicando-se via rede **LoRaWAN**, integrados a sensores de umidade capacitivos, sensores de vibração (SW-420) e módulos acelerômetros/giroscópios (MPU-6050).
 *   **Backend e Estruturação de Dados:** Formatação de dados telemétricos em JSON e envio periódico via requisições HTTP para um servidor backend desenvolvido em FastAPI.
 *   **Processamento e IA:** Construção de um pipeline ETL em ambiente Python para cruzar dados locais com dados pluviométricos e imagens de satélite (NASA/ESA), preparando a base para a aplicação de modelos de Inteligência Artificial voltados à análise preditiva de riscos.
 *   **Plataforma Digital:** Desenvolvimento de um dashboard web/mobile interativo para centralização de alertas, análise geoespacial e visualização de dados em tempo real.
@@ -46,10 +46,21 @@ Atualmente, trabalho no desenvolvimento de um **Sistema Integrado para Gestão d
 ### 📈 Status no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlmeidaMaciel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeidaMaciel&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/PedroAlmeidaMaciel">
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroAlmeidaMaciel&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180">
+  </a>
+  <a href="https://github.com/PedroAlmeidaMaciel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeidaMaciel&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" height="180">
+  </a>
 </p>
 
+---
+
+### 📫 Vamos nos conectar!
+
+Se quiser trocar ideias sobre cultura DevOps, soluções em nuvem, IoT, ou qualquer outro desafio de arquitetura:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-almeida-maciel-9687521a1)
 ---
 
 ### 📫 Vamos nos conectar!
